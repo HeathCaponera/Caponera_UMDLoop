@@ -1,0 +1,58 @@
+running egg_info
+writing build/waypoint_field_nav/waypoint_field_nav.egg-info/PKG-INFO
+writing dependency_links to build/waypoint_field_nav/waypoint_field_nav.egg-info/dependency_links.txt
+writing entry points to build/waypoint_field_nav/waypoint_field_nav.egg-info/entry_points.txt
+writing requirements to build/waypoint_field_nav/waypoint_field_nav.egg-info/requires.txt
+writing top-level names to build/waypoint_field_nav/waypoint_field_nav.egg-info/top_level.txt
+reading manifest file 'build/waypoint_field_nav/waypoint_field_nav.egg-info/SOURCES.txt'
+writing manifest file 'build/waypoint_field_nav/waypoint_field_nav.egg-info/SOURCES.txt'
+running build
+running build_py
+copying waypoint_field_nav/course_publisher.py -> /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav
+copying waypoint_field_nav/__init__.py -> /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav
+copying waypoint_field_nav/generate_course.py -> /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav
+copying waypoint_field_nav/navigator.py -> /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav
+copying waypoint_field_nav/core/course_gen.py -> /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core
+copying waypoint_field_nav/core/__init__.py -> /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core
+copying waypoint_field_nav/core/nav_core.py -> /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core
+copying waypoint_field_nav/core/potential_field.py -> /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core
+copying waypoint_field_nav/core/geometry.py -> /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core
+copying waypoint_field_nav/core/planner.py -> /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core
+running install
+running install_lib
+copying /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core/course_gen.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core
+copying /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core/__init__.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core
+copying /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core/nav_core.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core
+copying /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core/potential_field.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core
+copying /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core/geometry.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core
+copying /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/core/planner.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core
+copying /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/course_publisher.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav
+copying /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/__init__.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav
+copying /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/generate_course.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav
+copying /home/heath/waypoint_field_nav/build/waypoint_field_nav/build/lib/waypoint_field_nav/navigator.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav
+byte-compiling /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core/course_gen.py to course_gen.cpython-312.pyc
+byte-compiling /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core/nav_core.py to nav_core.cpython-312.pyc
+byte-compiling /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core/potential_field.py to potential_field.cpython-312.pyc
+byte-compiling /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core/geometry.py to geometry.cpython-312.pyc
+byte-compiling /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/core/planner.py to planner.cpython-312.pyc
+byte-compiling /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/course_publisher.py to course_publisher.cpython-312.pyc
+byte-compiling /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/generate_course.py to generate_course.cpython-312.pyc
+byte-compiling /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav/navigator.py to navigator.cpython-312.pyc
+running install_data
+copying resource/waypoint_field_nav -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/share/ament_index/resource_index/packages
+copying package.xml -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/share/waypoint_field_nav
+copying launch/bringup.launch.py -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/share/waypoint_field_nav/launch
+copying config/bridge.yaml -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/share/waypoint_field_nav/config
+copying config/nav.rviz -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/share/waypoint_field_nav/config
+copying worlds/default_course.yaml -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/share/waypoint_field_nav/worlds
+copying worlds/default_course.sdf -> /home/heath/waypoint_field_nav/install/waypoint_field_nav/share/waypoint_field_nav/worlds
+running install_egg_info
+removing '/home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav-1.0.0-py3.12.egg-info' (and everything under it)
+Copying build/waypoint_field_nav/waypoint_field_nav.egg-info to /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav-1.0.0-py3.12.egg-info
+running install_scripts
+Installing course_publisher script to /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/waypoint_field_nav
+Installing generate_course script to /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/waypoint_field_nav
+Installing navigator script to /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/waypoint_field_nav
+writing list of installed files to '/home/heath/waypoint_field_nav/build/waypoint_field_nav/install.log'

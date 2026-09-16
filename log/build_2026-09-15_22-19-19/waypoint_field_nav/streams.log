@@ -1,0 +1,23 @@
+[1.061s] Invoking command in '/home/heath/waypoint_field_nav': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/heath/waypoint_field_nav/build/waypoint_field_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/waypoint_field_nav build --build-base /home/heath/waypoint_field_nav/build/waypoint_field_nav/build install --record /home/heath/waypoint_field_nav/build/waypoint_field_nav/install.log --install-scripts $base/lib/waypoint_field_nav --single-version-externally-managed install_data
+[1.393s] running egg_info
+[1.416s] writing build/waypoint_field_nav/waypoint_field_nav.egg-info/PKG-INFO
+[1.417s] writing dependency_links to build/waypoint_field_nav/waypoint_field_nav.egg-info/dependency_links.txt
+[1.417s] writing entry points to build/waypoint_field_nav/waypoint_field_nav.egg-info/entry_points.txt
+[1.417s] writing requirements to build/waypoint_field_nav/waypoint_field_nav.egg-info/requires.txt
+[1.417s] writing top-level names to build/waypoint_field_nav/waypoint_field_nav.egg-info/top_level.txt
+[1.470s] reading manifest file 'build/waypoint_field_nav/waypoint_field_nav.egg-info/SOURCES.txt'
+[1.471s] writing manifest file 'build/waypoint_field_nav/waypoint_field_nav.egg-info/SOURCES.txt'
+[1.472s] running build
+[1.472s] running build_py
+[1.472s] running install
+[1.481s] running install_lib
+[1.507s] running install_data
+[1.507s] running install_egg_info
+[1.534s] removing '/home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav-1.0.0-py3.12.egg-info' (and everything under it)
+[1.534s] Copying build/waypoint_field_nav/waypoint_field_nav.egg-info to /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages/waypoint_field_nav-1.0.0-py3.12.egg-info
+[1.535s] running install_scripts
+[1.699s] Installing course_publisher script to /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/waypoint_field_nav
+[1.699s] Installing generate_course script to /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/waypoint_field_nav
+[1.699s] Installing navigator script to /home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/waypoint_field_nav
+[1.700s] writing list of installed files to '/home/heath/waypoint_field_nav/build/waypoint_field_nav/install.log'
+[1.740s] Invoked command in '/home/heath/waypoint_field_nav' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/heath/waypoint_field_nav/build/waypoint_field_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/heath/waypoint_field_nav/install/waypoint_field_nav/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/waypoint_field_nav build --build-base /home/heath/waypoint_field_nav/build/waypoint_field_nav/build install --record /home/heath/waypoint_field_nav/build/waypoint_field_nav/install.log --install-scripts $base/lib/waypoint_field_nav --single-version-externally-managed install_data

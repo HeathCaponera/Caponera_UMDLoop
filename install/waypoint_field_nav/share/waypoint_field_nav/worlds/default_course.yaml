@@ -1,0 +1,73 @@
+bounds:
+- -8.0
+- -8.0
+- 8.0
+- 8.0
+start:
+- 0.0
+- 0.0
+obstacles:
+- type: circle
+  x: -2.466
+  y: -4.888
+  radius: 0.443
+- type: box
+  x: 0.502
+  y: -1.88
+  hx: 0.311
+  hy: 0.864
+- type: circle
+  x: -6.022
+  y: -5.73
+  radius: 0.896
+- type: box
+  x: 5.019
+  y: -2.945
+  hx: 0.701
+  hy: 0.545
+- type: circle
+  x: -4.47
+  y: 1.142
+  radius: 0.623
+- type: box
+  x: 0.668
+  y: -6.121
+  hx: 1.185
+  hy: 0.428
+- type: box
+  x: 4.121
+  y: 2.786
+  hx: 0.458
+  hy: 1.438
+- type: box
+  x: -1.146
+  y: 3.6
+  hx: 0.351
+  hy: 1.169
+- type: circle
+  x: -6.643
+  y: 5.241
+  radius: 0.489
+- type: circle
+  x: -3.468
+  y: -2.137
+  radius: 0.474
+- type: circle
+  x: 4.885
+  y: 6.903
+  radius: 0.69
+- type: circle
+  x: -6.747
+  y: -2.359
+  radius: 0.707
+waypoints:
+- - -6.1
+  - 6.791
+- - -5.533
+  - -3.282
+- - -6.446
+  - 3.906
+- - -1.088
+  - 5.76
+- - 0.988
+  - 2.806

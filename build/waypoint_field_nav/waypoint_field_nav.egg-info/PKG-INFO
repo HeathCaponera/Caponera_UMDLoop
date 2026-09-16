@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: waypoint-field-nav
+Version: 1.0.0
+Summary: Autonomous potential-field waypoint navigation in Gazebo (ROS 2 Jazzy).
+Maintainer: Robotics Challenge
+Maintainer-email: dev@example.com
+License: MIT

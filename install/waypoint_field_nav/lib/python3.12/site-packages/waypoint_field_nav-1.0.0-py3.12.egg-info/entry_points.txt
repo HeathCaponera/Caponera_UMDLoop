@@ -1,0 +1,4 @@
+[console_scripts]
+course_publisher = waypoint_field_nav.course_publisher:main
+generate_course = waypoint_field_nav.generate_course:main
+navigator = waypoint_field_nav.navigator:main
